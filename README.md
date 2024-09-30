@@ -1,5 +1,5 @@
 # What is a Computer…<br>
-Read [What is an operating system?](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/). Then watch [Computer Basics: Understanding Operating Systems](https://youtu.be/fkGCLIQx1MI). <br>You may have to Google some answers. Then answer the questions below in bold.
+Read [What is an operating system?](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/). Then watch [Computer Basics: Understanding Operating Systems](https://youtu.be/fkGCLIQx1MI). <br>You may have to Google some answers. Then answer the questions below in bold in a new Google Doc. You will add it to your Build a computer assignment in [Google Classroom.](https://classroom.google.com/c/NzA1MDk3OTY0MzEx/m/NzA2MzU3NTkwMzI0/details)
 
 1. What is the most basic language that computers understand?
 2. In computer language, what does 1 represent? What does 0 represent?
